@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2d87b42e-9df7-40fa-8e1d-829462502aca/deploy-status)](https://app.netlify.com/sites/molunsmarthometv/deploys)
 ---
 
 Example [Jekyll] website using GitLab with [Netlify](https://www.netlify.com/).
