@@ -2,7 +2,7 @@
 
 >项目地址：https://github.com/CatVodTVOfficial/TVBoxOSC.git
 
-TVBOX项目原版仓库，于2022年7月18日存档，其余项目均基于此项目基础上二次开发。
+>TVBOX项目原版仓库，于2022年7月18日存档，其余项目均基于此项目基础上二次开发。
 
 ---
 **takagen99**
@@ -30,7 +30,7 @@ TVBOX项目原版仓库，于2022年7月18日存档，其余项目均基于此�
 
 >更新地址：https://api.ys66.repl.co/ysgx/
 
-影视正式版
+>**影视正式版下载**
 
 >TV版-java32：https://ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-java-armeabi_v7a.apk
 
@@ -49,9 +49,12 @@ TVBOX项目原版仓库，于2022年7月18日存档，其余项目均基于此�
 >手机版-py64：https://ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/mobile-python-arm64_v8a.apk
 
 >TV版(4.1-4.4)：https://ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/kitkat/leanback.apk
+
 ---
 **CatBox**
+
 >项目地址：https://t.me/watson1028
+
 ---
 **时光机TV**
 
