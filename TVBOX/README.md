@@ -18,6 +18,7 @@ TVBOX项目原版仓库，于2022年7月18日存档，其余项目均基于此�
 **APP下载**
 
 >构建地址：https://github.com/o0HalfLife0o/TVBoxOSC/releases
+
 >发布群组：https://t.me/TVBoxOSC
 
 ---
