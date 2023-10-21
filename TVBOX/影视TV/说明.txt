@@ -1,0 +1,66 @@
+版本说明：
+mobile = 手机版
+leanback = 电视版
+
+java = jar + js 爬虫
+python = jar + js + py 爬虫
+
+arm64_v8a = 64 位元
+armabi_v7a = 32 位元
+
+dev = 内测版
+kitkat = 4.x 版
+release = 正式版
+
+
+
+影視TV版 影視手機/平板版
+官方發佈頻道 https://t.me/fongmi_release
+
+官方交流群 https://t.me/fongmi_offical
+
+作者的18🈲交流群 https://t.me/fongmi_adult
+
+官方開源倉庫 https://github.com/fongmi/tv
+
+最新APP仓库下载 https://github.com/FongMi/release
+
+官方爬虫仓库 https://github.com/FongMi/CatVodSpider
+
+
+蜂蜜原裝接口
+(海外專用)
+18+ ＞https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/adult.json
+
+正规 ＞https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json
+
+网友自制蜂蜜接口轉發
+(由於蜂蜜原裝接口沒有添加加速鏈 然而生之 每30分钟同步一次 國內專用)
+18+ ＞https://ts--ly23.repl.co/fm18
+      http://大屌蜂蜜.eu.org
+      https://v.玩.eu.org/18/ (4.4专用 即时同步)
+
+
+正规 ＞https://ts--ly23.repl.co/fmtv
+      http://蜂蜜.eu.org
+      https://v.玩.eu.org/fmtv/ (4.4专用即时同步)
+
+
+影视更新接口 选择合适自己的 
+https://api.ys66.repl.co/ysgx/
+
+還可以這樣
+
+直鏈 
+https://api.ys66.repl.co/ysgx?dl
+內置線路(1-8) 
+https://api.ys66.repl.co/ysgx?dl=1
+自定義代理1(去除https://raw.githubusercontent.com/)
+ https://api.ys66.repl.co/ysgx?dl=http://github.ewwe.gq/
+自定義代理2(保留https://raw.githubusercontent.com/)
+https://api.ys66.repl.co/ysgx?dl=https://ghproxy.com/&raw=1
+
+
+推荐本地接口包：
+XYQTVBox：https://www.123pan.com/s/alSeVv-lGO0A.html
+猫爪：
