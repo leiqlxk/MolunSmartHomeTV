@@ -26,9 +26,11 @@ TVBOX项目原版仓库，于2022年7月18日存档，其余项目均基于此�
 
 >项目地址：https://github.com/FongMi/TV.git
 
+>官方群组：https://t.me/fongmi_offical
+
 >发布群组：https://t.me/tvb_ys
 
->数据源：https://github.com/FongMi/CatVodSpider.git
+>爬虫仓库：https://github.com/FongMi/CatVodSpider.git
 
 >更新地址：https://api.ys66.repl.co/ysgx/
 
