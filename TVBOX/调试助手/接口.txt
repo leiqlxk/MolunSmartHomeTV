@@ -1,4 +1,0 @@
-测试全局：
-https://agit.ai/hellocupe/vue-element-admin/raw/branch/master/t.json
-
-备用全局：http://shuyuan.miaogongzi.net/shuyuan/1697524709.json
