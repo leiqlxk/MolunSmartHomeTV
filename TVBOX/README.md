@@ -36,26 +36,27 @@ TVBOX项目原版仓库，于2022年7月18日存档，其余项目均基于此�
 
 影视正式版
 
->TV版-java32：https://ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-java-armeabi_v7a.apk
+-    TV版-java32：https://ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-java-armeabi_v7a.apk
 
->TV版-java64: https://ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-java-arm64_v8a.apk
+-    TV版-java64: https://ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-java-arm64_v8a.apk
 
->TV版-py32：https://ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-python-armeabi_v7a.apk
+-    TV版-py32：https://ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-python-armeabi_v7a.apk
 
->TV版-py64：https://ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-python-arm64_v8a.apk
+-    TV版-py64：https://ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-python-arm64_v8a.apk
 
->手机版-java32：https://ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/mobile-java-armeabi_v7a.apk
+-    手机版-java32：https://ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/mobile-java-armeabi_v7a.apk
 
->手机版-java64：https://ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/mobile-java-arm64_v8a.apk
+-    手机版-java64：https://ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/mobile-java-arm64_v8a.apk
 
->手机版-py32：https://ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/mobile-python-armeabi_v7a.apk
+-    手机版-py32：https://ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/mobile-python-armeabi_v7a.apk
 
->手机版-py64：https://ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/mobile-python-arm64_v8a.apk
+-    手机版-py64：https://ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/mobile-python-arm64_v8a.apk
 
->TV版(4.1-4.4)：https://ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/kitkat/leanback.apk
+-    TV版(4.1-4.4)：https://ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/kitkat/leanback.apk
 
 ---
 **CatBox**
+
 >发布群组：https://t.me/watson1028
 
 ---
@@ -84,17 +85,30 @@ TVBOX项目原版仓库，于2022年7月18日存档，其余项目均基于此�
 
 >软件下载：https://github.com/tv-player/js-source/blob/share/app.apk
 
+
+---
+**521影视**
+
+>项目地址：
+    https://support.qq.com/products/488511/?id=136154
+
+>下载地址：
+
+-    https://pan.quark.cn/s/ab971aea16d7#/list/share
+ 
+-    https://php.tv444.repl.co/%E5%BD%B1%E8%A7%86/mb-521.php
+
 ---
 **TVBOX数据源更新地址**
 
->https://ewwe.gq/
+-    https://ewwe.gq/
 
->http://xn--sss604efuw.top/
+-    http://xn--sss604efuw.top/
 
->https://github.com/jackson0829/jackson0829.github.io
+-    https://github.com/jackson0829/jackson0829.github.io
 
->https://agit.ai/66666/mao
+-    https://agit.ai/66666/mao
 
->https://github.com/FongMi/CatVodSpider
+-    https://github.com/FongMi/CatVodSpider
 
 ---
