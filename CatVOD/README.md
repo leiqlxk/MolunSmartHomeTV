@@ -23,7 +23,7 @@
 
 ---
 
->CatVOD配置文件：
+>CatVOD配置：
 
     github://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@github.com/molun/MolunSmartHomeTV/main/CatVOD/js/config_open.json
 
@@ -31,9 +31,14 @@
 
     dd945d3160874ee49dcb84d5088ee941
 
+配置地址：
+
+    https://raw.githubusercontent.com/molun/MolunSmartHomeTV/main/CatVOD/js/config_open.json
+
 ---
 
 >他人配置文件：
 
     gitee://7af9874d90ee646f2ce0e14cfa40e4e3@gitee.com/xmbjmck/mys/master/js/config_open.json
+
 
