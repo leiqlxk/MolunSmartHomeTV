@@ -27,7 +27,7 @@
 
     github://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@github.com/molun/MolunSmartHomeTV/main/CatVOD/js/config_open.json
 
->阿里云refreshToken:
+>阿里云盘refreshToken:
 
     dd945d3160874ee49dcb84d5088ee941
 
