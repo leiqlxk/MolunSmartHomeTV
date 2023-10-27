@@ -25,7 +25,7 @@
 
 >CatVOD配置：
 
-    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@github.com/molun/MolunSmartHomeTV/main/CatVOD/js/config_open.json
+    github://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@github.com/molun/MolunSmartHomeTV/main/CatVOD/js/config_open.json
 
 >阿里云盘refreshToken:
 
