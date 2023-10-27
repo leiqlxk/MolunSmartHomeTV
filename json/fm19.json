@@ -7,7 +7,7 @@
   ],
 
   "sites":[
-    {"key":"","name":"防失联关注公众号[玉玉软件]","type":3,"api":"","searchable":0},
+    {"key":"","name":"玉玉软件","type":3,"api":"","searchable":0},
 
     {"key":"csp_CandyMuj_haokongbu","name":"好恐怖(直连)","type":3,"api":"csp_CandyMuj_haokongbu","searchable":1,"quickSearch":1,"filterable":1,"categories":["伦理"]},
     {"key":"csp_CandyMuj_lm5","name":"星辰影院(直连)","type":3,"api":"csp_CandyMuj_lm5","searchable":1,"quickSearch":1,"filterable":0,"categories":["伦理","野花"]},

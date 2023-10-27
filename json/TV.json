@@ -1,0 +1,42 @@
+[
+    {
+      "name": "米",
+      "source": "http://xhww.fun:63/小米/DEMO.json",
+      "prefix": ""
+    },
+    {
+      "name": "道",
+      "source": "https://pastebin.com/raw/5NHaxyGR",
+      "prefix": ""
+    },
+    {
+      "name": "车",
+      "source": "http://ftp6587948.host121.sanfengyun.cn/bd/ysc.json",
+      "prefix": ""
+    },
+    {
+      "name": "秀",
+      "source": "http://rihou.cc:88/荷城茶秀",
+      "prefix": "http://rihou.cc:88/"
+    },
+    {
+      "name": "蜜",
+      "source": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
+      "prefix": ""
+    },
+    {
+      "name": "裙",
+      "source": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+      "prefix": ""
+    },
+    {
+      "name": "猫",
+      "source": "http://肥猫.love",
+      "prefix": ""
+    },
+    {
+      "name": "饭",
+      "source": "http://饭太硬.top/tv",
+      "prefix": ""
+    }
+  ]
