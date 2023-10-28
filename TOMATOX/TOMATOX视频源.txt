@@ -1,5 +1,4 @@
-我的云端硬盘
-﻿FOX资源 https://api.foxzyapi.com/api.php/provide/vod/at/xml
+FOX资源 https://api.foxzyapi.com/api.php/provide/vod/at/xml
 量子资源 http://cj.lziapi.com/api.php/provide/vod/at/xml
 红牛资源 https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/at/xml
 飞速资源 https://www.feisuzy.com/api.php/provide/vod/at/xml
