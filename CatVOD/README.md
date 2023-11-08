@@ -25,7 +25,7 @@
 
 >CatVOD配置：
 
-    github://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@github.com/molun/MolunSmartHomeTV/main/CatVOD/js/config_open.json
+    github://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@github.com/molun/MolunSmartHomeTV/main/CatVOD/js/config_open.json
 -
 
     github://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@github.com/molun/MolunSmartHomeTV/main/CatVOD/js/config_open.json
