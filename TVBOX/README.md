@@ -68,7 +68,13 @@ TVBOX项目原版仓库，于2022年7月18日存档，其余项目均基于此�
 
 >领先版数据源：https://ghproxy.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/master_stable_github.json
 
->稳定版数据源：https://www.bestpvp.site/关注码上放生/时光机
+>稳定版数据源：
+
+- https://www.bestpvp.site/关注码上放生/时光机
+          
+- https://gitee.com/bestpvp/tm/raw/master/source/stable/main.json
+
+>直播源：https://fanmingming.com/txt?url=https://iptv-org.github.io/iptv/languages/zho.m3u
 
 ---
 **Pluto Player**
