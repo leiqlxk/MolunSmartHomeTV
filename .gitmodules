@@ -1,0 +1,15 @@
+[submodule "TVBOX/DATA/ZTHA000"]
+	path = TVBOX/DATA/ZTHA000
+	url = https://github.com/ZTHA000/tvbox.git
+[submodule "TVBOX/DATA/jackson0829"]
+	path = TVBOX/DATA/jackson0829
+	url = https://github.com/jackson0829/jackson0829.github.io.git
+[submodule "TVBOX/DATA/gaotianliuyun"]
+	path = TVBOX/DATA/gaotianliuyun
+	url = https://github.com/gaotianliuyun/gao.git
+[submodule "TVBOX/DATA/mao"]
+	path = TVBOX/DATA/mao
+	url = https://agit.ai/66666/mao.git
+[submodule "TVBOX/DATA/FongMi"]
+	path = TVBOX/DATA/FongMi
+	url = https://github.com/FongMi/CatVodSpider.git
