@@ -13,3 +13,6 @@
 [submodule "TVBOX/DATA/FongMi"]
 	path = TVBOX/DATA/FongMi
 	url = https://github.com/FongMi/CatVodSpider.git
+[submodule "TVBOX/DATA/gao"]
+	path = TVBOX/DATA/gao
+	url = https://github.com/gaotianliuyun/gao.git
