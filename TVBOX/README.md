@@ -41,16 +41,20 @@ TVBOX项目原版仓库，于2022年7月18日存档，其余项目大多数基�
 -    TV版-java64: <https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-java-arm64_v8a.apk>
 
 -    TV版-py32：<https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-python-armeabi_v7a.apk>
+                <https://fm.caioa.link/main/apk/release/leanback-python-armeabi_v7a.apk>
 
 -    TV版-py64：<https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-python-arm64_v8a.apk>
+                <https://fm.caioa.link/main/apk/release/leanback-python-arm64_v8a.apk>
 
 -    手机版-java32：<https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/mobile-java-armeabi_v7a.apk>
 
 -    手机版-java64：<https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/mobile-java-arm64_v8a.apk>
 
 -    手机版-py32：<https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/mobile-python-armeabi_v7a.apk>
+                 <https://fm.caioa.link/main/apk/release/mobile-python-armeabi_v7a.apk>
 
 -    手机版-py64：<https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/mobile-python-arm64_v8a.apk>
+                 <https://fm.caioa.link/main/apk/release/mobile-python-arm64_v8a.apk>
 
 -    TV版(4.1-4.4)：<https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/kitkat/leanback.apk>
 
