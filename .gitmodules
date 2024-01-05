@@ -22,3 +22,6 @@
 [submodule "TVBOX/DATA/gaotianliuyun/gao"]
 	path = TVBOX/DATA/gaotianliuyun/gao
 	url = https://github.com/gaotianliuyun/gao.git
+[submodule "TVBOX/DATA/Ftindy/IPTV-URL"]
+	path = TVBOX/DATA/Ftindy/IPTV-URL
+	url = https://github.com/Ftindy/IPTV-URL.git
