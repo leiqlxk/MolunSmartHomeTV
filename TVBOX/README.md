@@ -105,6 +105,8 @@ TVBOX项目原版仓库，于2022年7月18日存档，其余项目大多数基�
 >下载地址：
 
 - <https://www.123pan.com/s/UzXRVv-gNl4H.html>
+
+- https://www.123pan.com/s/UzXRVv-7x74H.html>
  
 - <https://php.tv444.repl.co/%E5%BD%B1%E8%A7%86/mb-521.php>
 
